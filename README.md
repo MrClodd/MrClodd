@@ -7,7 +7,7 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/claudiu-dumitru-alexandru-3a9479b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/claudiu-dumitru-alexandru-3a9479b7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/claudiu-dumitru-alexandru-3a9479b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/claudiu-dumitru-alexandru-3a9479b7" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
