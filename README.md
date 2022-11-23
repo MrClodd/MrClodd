@@ -18,7 +18,8 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 - 💬 Ask me about
 - 👨‍💻 All of my projects are available at
 - 📝 I regularly write articles on
-- 📄 Know about my experiences **I can:**
+- 📄 Know about my experiences 
+**I can:**
 ```
 • Interpret use cases, functional and non-functional requirements;
 • Create and execute test cases and checklists;
