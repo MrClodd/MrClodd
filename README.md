@@ -18,15 +18,15 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 - 💬 Ask me about
 - 👨‍💻 All of my projects are available at
 - 📝 I regularly write articles on
-- 📄 Know about my experiences **I can:
+- 📄 Know about my experiences **I can:**
 • Interpret use cases, functional and non-functional requirements;
 • Create and execute test cases and checklists;
 • Find functional/non-functional issues before your users find them;
 • Report and track issues/defects;
 • Create and update project related metrics;
-• Increase your client’s retention;**
+• Increase your client’s retention;
 
-**I have strong knowledge of the following technologies:
+**I have strong knowledge of the following technologies:**
 • Manual/Automation Testing
 • Applications: Web, desktop, and mobile applications
 • Functional/Regression/Smoke/Acceptance Testing
@@ -37,7 +37,7 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 • Bug Tracking & Test Management tools: Atlassian Jira, X-ray, Confluence.
 • Logging tools: GIT
 • IDE: IntelliJ Idea
-• Programming language: Python and Java.**
+• Programming language: Python and Java.
 - ⚡ Fun fact
 - 📫 How to reach me **claudiualex02@gmail.com**
 
