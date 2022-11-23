@@ -1,5 +1,30 @@
 <h1 align="center">Hi 👋, I'm Claudiu Dumitru Alexandru</h1>
-<h3 align="center">Hello! I am Claudiu and I am a software Senior QA Automation | QA Software | Tester | with a Telecommunications and Information bachelor degree. Efficiency, punctuality and responsibility are some of my best qualities. I am very passionate about Software Testing and I am constantly looking for challenging environments to use and develop my skills as a QA Engineer.</h3>
+<h3 align="center">Hello! I am Claudiu and I am a software Senior QA Automation | QA Software | Tester | with a Telecommunications and Information bachelor degree. Efficiency, punctuality and responsibility are some of my best qualities. I am very passionate about Software Testing and I am constantly looking for challenging environments to use and develop my skills as a QA Engineer.
+  
+I can:
+• Interpret use cases, functional and non-functional requirements;
+• Create and execute test cases and checklists;
+• Find functional/non-functional issues before your users find them;
+• Report and track issues/defects;
+• Create and update project related metrics;
+• Increase your client’s retention;
+
+I have strong knowledge of the following technologies:
+• Manual/Automation Testing
+• Applications: Web, desktop, and mobile applications
+• Functional/Regression/Smoke/Acceptance Testing
+• Integration Test: API Testing
+• Performance Testing: JMeter
+• UI & UX Testing
+• Automation tools: Cucumber, RestAssured, Postman, Swagger, Appium.
+• Bug Tracking & Test Management tools: Atlassian Jira, X-ray, Confluence.
+• Logging tools: GIT
+• IDE: IntelliJ Idea
+• Programming language: Python and Java.
+
+I am a very detail-oriented person, I understand priorities and make a good choice on where to start with the testing process. I am also very creative and I can test beyond what’s spelled out in the requirements.
+
+I am a very positive and a quick learner and I am open for any proposals. Don’t hesitate to contact me.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
