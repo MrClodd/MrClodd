@@ -13,10 +13,15 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analyst**
-
+- 👯 I’m looking to collaborate on
+- 🤝 I’m looking for help with
+- 💬 Ask me about
+- 👨‍💻 All of my projects are available at
+- 📝 I regularly write articles on
+- 📄 Know about my experiences
+- ⚡ Fun fact
 - 📫 How to reach me **claudiualex02@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
