@@ -25,7 +25,6 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 • Report and track issues/defects;
 • Create and update project related metrics;
 • Increase your client’s retention;
-
 **I have strong knowledge of the following technologies:**
 • Manual/Automation Testing
 • Applications: Web, desktop, and mobile applications
