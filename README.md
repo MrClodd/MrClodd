@@ -14,7 +14,6 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 
 - 👨‍ I’m currently working as **Quality Assurance**
 - 🌱 I’m currently learning abaout **Data Analyst**
-- 🤝 I’m looking for help with
 - 💬 Ask me about software automation and in the world of testing mostly
 - 👨‍💻 I worked in the backend with: Java, Python and in the fronted: Cypress, Postman
 - 📫 How to reach me **claudiualex02@gmail.com**
