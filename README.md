@@ -52,5 +52,5 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 <p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrclodd&show_icons=true&locale=en" alt="mrclodd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrclodd&" alt="mrclodd" /></p>
+
 
