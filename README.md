@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claudiu Dumitru Alexandru</h1>
-<h3 align="center">Hello! I am Claudiu and I am a software Senior QA Automation | QA Software | Tester | with a Telecommunications and Information bachelor degree. Efficiency, punctuality and responsibility are some of my best qualities. I am very passionate about Software Testing and I am constantly looking for challenging environments to use and develop my skills as a QA Engineer.
+<h3 align="center">Hello! I am Claudiu and I am a software Senior QA Automation | QA Engineer | Tester | with a Telecommunications and Information bachelor degree. Efficiency, punctuality and responsibility are some of my best qualities. I am very passionate about Software Testing and I am constantly looking for challenging environments to use and develop my skills as a QA Engineer.
 
 I am a very detail-oriented person, I understand priorities and make a good choice on where to start with the testing process. I am also very creative and I can test beyond what’s spelled out in the requirements.
 
