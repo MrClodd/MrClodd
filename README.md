@@ -13,7 +13,7 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍ I’m currently working as **QA Engineer**
-- 🌱 I’m currently learning about **Data Analyst**
+- 🌱 I’m currently learning about **Data Testing**
 - 💬 Ask me about software automation and in the world of testing mostly
 - 👨‍💻 I worked in the backend with: Javascript, Python and in the fronted: Cypress, Postman
 - 📫 How to reach me **claudiualex02@gmail.com**
