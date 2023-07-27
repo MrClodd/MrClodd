@@ -24,6 +24,7 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 • Interpret use cases, functional and non-functional requirements;
 • Create and execute test cases and checklists;
 • Find functional/non-functional issues before your users find them;
+• Mask test data or generate new data based on rules tailored to each process and business;
 • Report and track issues/defects;
 • Create and update project related metrics;
 • Increase your client’s retention;
@@ -36,11 +37,11 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 • Integration Test: API Testing
 • Performance Testing: JMeter
 • UI & UX Testing
-• Automation tools: Cucumber, Postman, Swagger, Appium.
-• Bug Tracking & Test Management tools: Jira, X-ray, Confluence.
-• Logging tools: GIT
+• Automation tools: Cucumber, Postman, Cypress, Appium, Playwright.
+• Bug Tracking & Test Management tools: Jira, X-ray, Confluence, Jupyter Notebook.
+• Logging tools: GIT, Jenkins.
 • IDE: IntelliJ Idea, Visual studio.
-• Programming language: Python and Java.
+• Programming language: Python, Gherkin and Java.
 ```
 
 <p align="left">
