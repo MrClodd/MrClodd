@@ -50,7 +50,7 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bitbucket,aiscript,figma,gherkin,cypress,js,py,ts,jenkins,terraform,kali,linux,ubuntu, mysql,nodejs,notion,npm,postman,vscode,playwright,graphql" />
   </a>
 </p>
 
