@@ -44,8 +44,9 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 • Programming language: Python, Gherkin and TypeScript.
 ```
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg"></p></a>
+<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
 
 
 
