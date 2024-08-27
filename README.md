@@ -46,11 +46,10 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 
 <p align="left">
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bitbucket,aiscript,figma,gherkin,cypress,js,py,ts,jenkins,terraform,kali,linux,ubuntu, mysql,nodejs,notion,npm,postman,vscode,playwright,graphql" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,kubernetes,docker,c,vim" />
   </a>
 </p>
 
