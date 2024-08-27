@@ -45,13 +45,7 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 ```
 
 <p align="left">
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg"></p></a>
 
 
 
