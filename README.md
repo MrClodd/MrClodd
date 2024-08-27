@@ -46,9 +46,8 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
-<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/playwright-dark.svg" width="50"></a>
-
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/playwright-dark.svg" width="50"></a>
 
 
 
