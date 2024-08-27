@@ -48,8 +48,8 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 
 
