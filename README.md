@@ -13,9 +13,9 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍ I’m currently working as **QA Engineer**
-- 🌱 I’m currently learning about **Data Testing**
+- 🌱 I’m currently learning about **Data Testing and DevOps**
 - 💬 Ask me about software automation and in the world of testing mostly
-- 👨‍💻 I worked in the backend with: Javascript, Python and in the fronted: Cypress, Postman
+- 👨‍💻 I worked in the backend with: Javascript, TypeScript, Python and in the fronted: Playwright, AWS.
 - 📫 How to reach me **claudiualex02@gmail.com**
 
 **I can:**
@@ -35,13 +35,13 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 • Applications: Web, desktop, and mobile applications
 • Functional/Regression/Smoke/Acceptance Testing
 • Integration Test: API Testing
-• Performance Testing: JMeter
+• Performance Testing: K6
 • UI & UX Testing
-• Automation tools: Cucumber, Postman, Cypress, Appium, Playwright.
+• Automation tools: Cucumber, Postman, AWS Tools, Appium, Playwright.
 • Bug Tracking & Test Management tools: Jira, X-ray, Confluence, Jupyter Notebook.
 • Logging tools: GIT, Jenkins.
 • IDE: IntelliJ Idea, Visual studio.
-• Programming language: Python, Gherkin and Java.
+• Programming language: Python, Gherkin and TypeScript.
 ```
 
 <p align="left">
