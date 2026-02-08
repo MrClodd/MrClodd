@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claudiu Dumitru Alexandru</h1>
-<h3 align="center">Hello! I am Claudiu and I am a software Senior QA Automation | QA Engineer | Tester | with a Telecommunications and Information bachelor degree. Efficiency, punctuality and responsibility are some of my best qualities. I am very passionate about Software Testing and I am constantly looking for challenging environments to use and develop my skills as a QA Engineer.
+<h3 align="center">Hello! I am Claudiu and I am a software QA Engineer | AI & Automation with a Telecommunications and Information bachelor degree. Efficiency, punctuality and responsibility are some of my best qualities. I am very passionate about Software Testing and I am constantly looking for challenging environments to use and develop my skills as a QA Engineer.
 
 I am a very detail-oriented person, I understand priorities and make a good choice on where to start with the testing process. I am also very creative and I can test beyond what’s spelled out in the requirements.
 
@@ -11,9 +11,9 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 </p>
 
 - 👨‍ I’m currently working as **QA Engineer**
-- 🌱 I’m currently learning about **Data Testing and DevOps**
+- 🌱 I’m currently learning about **DevOps**
 - 💬 Ask me about software automation and in the world of testing mostly
-- 👨‍💻 I worked in the backend with: Javascript, TypeScript, Python and in the fronted: Playwright, AWS.
+- 👨‍💻 I worked with: Python and TypeScript for backend, and Playwright and AWS for testing.
 - 📫 How to reach me **claudiualex02@gmail.com**
 
 **I can:**
@@ -37,7 +37,7 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 • UI & UX Testing
 • Automation tools: Cucumber, Postman, AWS Tools, Appium, Playwright.
 • Bug Tracking & Test Management tools: Jira, X-ray, Confluence, Jupyter Notebook.
-• Logging tools: GIT, Jenkins.
+• Version Control & CI/CD tools: GIT, Jenkins.
 • IDE: IntelliJ Idea, Visual studio.
 • Programming language: Python, Gherkin and TypeScript.
 ```
@@ -63,7 +63,6 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" alt="Cucumber" title="Cucumber"/></code></td>
-      <td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
 			<td><code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code></td>
