@@ -10,8 +10,6 @@ I am a very positive and a quick learner and I am open for any proposals. Don’
 <a href="https://www.linkedin.com/in/claudiu-dumitru-alexandru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/claudiu-dumitru-alexandru-3a9479b7" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 👨‍ I’m currently working as **QA Engineer**
 - 🌱 I’m currently learning about **Data Testing and DevOps**
 - 💬 Ask me about software automation and in the world of testing mostly
